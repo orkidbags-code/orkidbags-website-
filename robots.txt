@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://orkidbags-code.github.io/orkidbags-website-/sitemap.xml
